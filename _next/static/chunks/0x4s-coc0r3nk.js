@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,58427,r=>{"use strict";r.i(47167);var e=r.i(71645);r.s(["DriverPwa",0,function(){return(0,e.useEffect)(()=>{"serviceWorker"in navigator&&navigator.serviceWorker.register("/driver/sw.js",{scope:"/driver/"}).catch(()=>void 0)},[]),null}])}]);
