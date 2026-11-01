@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/386stv12nn7ee.css","style"]
+:HL["/_next/static/chunks/2-439raok0aad.css","style"]
 :HL["/_next/static/media/Outfit_VariableFont_wght-s.p.3tyakrq6r4z19.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":"view","h":96,"c":"$Q4"}]]
 2:[["children",{"s":"drivers","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(app)","h":96,"c":"$Q2"}]]
-0:{"b":"xkaL9or3hkv5uE_ZTJtWO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"vY3QeK35fzgTe74eAOKm6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
