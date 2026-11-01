@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/44zb5eiheanys.css","style"]
+:HL["/_next/static/chunks/3v_xh83v39fve.css","style"]
 :HL["/_next/static/media/Outfit_VariableFont_wght-s.p.3tyakrq6r4z19.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
-3:[["children",{"s":{"n":"sub","t":"d","k":"maintenance","s":[]},"h":65632,"c":"$Q4"}]]
-2:[["children",{"s":{"n":"module","t":"d","k":"fleet","s":["clients","components","dashboard","deliveries","driver","driver-communications","drivers","finance","fleet","history","login","movements","pod","reports","set-password","settings","users"]},"h":196704,"c":"$Q3"}]]
-1:[["children",{"s":"(app)","h":131168,"c":"$Q2"}]]
-0:{"b":"WtWu6oLgkDgjKLz73D4HA","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+3:[["children",{"s":"maintenance","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"fleet","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(app)","h":96,"c":"$Q2"}]]
+0:{"b":"8sSTgWO5cJG99Q4DI8SiX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
