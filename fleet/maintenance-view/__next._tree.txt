@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/0m0k46-x-5g5w.css","style"]
+:HL["/_next/static/chunks/1jn1xrz3gf4z7.css","style"]
 :HL["/_next/static/media/Outfit_VariableFont_wght-s.p.3tyakrq6r4z19.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":"maintenance-view","h":96,"c":"$Q4"}]]
 2:[["children",{"s":"fleet","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(app)","h":96,"c":"$Q2"}]]
-0:{"b":"8O7VDuHXfsOJACu13X8GT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"9swN3epQHtUaEaM0vC_pW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
